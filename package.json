@@ -1,0 +1,17 @@
+{
+  "name": "ghj-weather",
+  "version": "1.0.3",
+  "description": "weather query",
+  "bin": {
+    "weather": "bin.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./bin"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "guohjia",
+  "license": "ISC"
+}
